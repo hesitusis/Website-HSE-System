@@ -1,0 +1,383 @@
+{
+  "userLogin": [
+    {
+      "nrp": "1001",
+      "nama": "Pak Muhammad Ali",
+      "email": "muhammad.ali@indotruck-utama.co.id",
+      "username": "ali",
+      "password": "123"
+    },
+    {
+      "nrp": "1002",
+      "nama": "Pak Rifki Hidayat",
+      "email": "rifki.hidayat@indotruck-utama.co.id",
+      "username": "rifki",
+      "password": "123"
+    },
+    {
+      "nrp": "1003",
+      "nama": "Hesi Admo",
+      "email": "hesitusis@gmail.com",
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "karyawan": [
+    "712988 - Muhammad Ali",
+    "219830 - Rifki Hidayat",
+    "348210 - Rahmat Hidayat",
+    "400192 - John Doe",
+    "123456 - Bambang Prasetyo",
+    "992103 - Agus Santoso",
+    "512301 - Susi Susanti",
+    "810293 - Tri Wahyuni"
+  ],
+  "dataOrder": [
+    {
+      "timestamp": "12/06/2026 10:15:32",
+      "jenis": "Barang Masuk",
+      "kategori": "APD",
+      "barang": "Helm Safety Putih",
+      "jumlah": 50,
+      "keterangan": "Restock Gudang Utama",
+      "oleh": "Hesi Admo"
+    },
+    {
+      "timestamp": "13/06/2026 14:02:11",
+      "jenis": "Barang Keluar",
+      "kategori": "APD",
+      "barang": "Helm Safety Putih",
+      "jumlah": 2,
+      "keterangan": "712988 - Muhammad Ali",
+      "oleh": "Hesi Admo"
+    },
+    {
+      "timestamp": "14/06/2026 09:30:00",
+      "jenis": "Barang Masuk",
+      "kategori": "APD",
+      "barang": "Safety Shoes No.7 / 41",
+      "jumlah": 20,
+      "keterangan": "Restock APD Baru",
+      "oleh": "Hesi Admo"
+    },
+    {
+      "timestamp": "15/06/2026 08:45:19",
+      "jenis": "Barang Keluar",
+      "kategori": "APD",
+      "barang": "Safety Shoes No.7 / 41",
+      "jumlah": 1,
+      "keterangan": "219830 - Rifki Hidayat",
+      "oleh": "Pak Muhammad Ali"
+    },
+    {
+      "timestamp": "15/06/2026 11:20:00",
+      "jenis": "Barang Keluar",
+      "kategori": "Barang",
+      "barang": "Kertas A4",
+      "jumlah": 5,
+      "keterangan": "Kantor HSE",
+      "oleh": "Hesi Admo"
+    }
+  ],
+  "laporanNapza": [
+    {
+      "timestamp": "10/06/2026 09:12:30",
+      "nama": "712988 - Muhammad Ali",
+      "nrp": "712988",
+      "jabatan": "Supervisor HSE",
+      "periode": "JUNI 2026",
+      "hasil": "Negatif",
+      "dokumen": "https://docs.google.com/viewer?url=https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "oleh": "Hesi Admo"
+    },
+    {
+      "timestamp": "11/06/2026 13:44:52",
+      "nama": "219830 - Rifki Hidayat",
+      "nrp": "219830",
+      "jabatan": "Mekanik Senior",
+      "periode": "JUNI 2026",
+      "hasil": "Negatif",
+      "dokumen": "-",
+      "oleh": "Hesi Admo"
+    }
+  ],
+  "laporanDonorDarah": [
+    {
+      "timestamp": "08/06/2026 10:00:00",
+      "nama": "712988 - Muhammad Ali",
+      "nrp": "712988",
+      "jabatan": "Supervisor HSE",
+      "tglDonor": "08/06/2026",
+      "lokasi": "Kantor PMI Balikpapan",
+      "tensi": "120/80",
+      "hasil": "Lolos (Berhasil Donor)",
+      "oleh": "Hesi Admo"
+    },
+    {
+      "timestamp": "08/06/2026 11:15:00",
+      "nama": "348210 - Rahmat Hidayat",
+      "nrp": "348210",
+      "jabatan": "Admin Logistik",
+      "tglDonor": "08/06/2026",
+      "lokasi": "Kantor PMI Balikpapan",
+      "tensi": "110/70",
+      "hasil": "Lolos (Berhasil Donor)",
+      "oleh": "Hesi Admo"
+    }
+  ],
+  "belumMengisi": [
+    {
+      "tanggal": "15/06/2026",
+      "nrp": "400192",
+      "nama": "John Doe",
+      "jabatan": "Operator Crane",
+      "atasan": "Budi Santoso"
+    },
+    {
+      "tanggal": "15/06/2026",
+      "nrp": "992103",
+      "nama": "Agus Santoso",
+      "jabatan": "Mekanik Assistant",
+      "atasan": "Bambang Prasetyo"
+    }
+  ],
+  "unfit": [
+    {
+      "tanggal": "15/06/2026",
+      "nrp": "512301",
+      "nama": "Susi Susanti",
+      "jabatan": "Helper Gudang",
+      "atasan": "Budi Santoso"
+    }
+  ],
+  "dataTraining": [
+    {
+      "timestamp": "01/05/2026 09:00:00",
+      "nama": "712988 - Muhammad Ali",
+      "nrp": "712988",
+      "training": "AK3 Umum Sertifikasi Kemnaker",
+      "tglPelaksanaan": "15/05/2026",
+      "tglExpired": "15/05/2029",
+      "sertifikatUrl": "https://docs.google.com/viewer?url=https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "oleh": "Hesi Admo"
+    },
+    {
+      "timestamp": "05/06/2026 14:30:20",
+      "nama": "123456 - Bambang Prasetyo",
+      "nrp": "123456",
+      "training": "Basic Fire Fighting & Safety",
+      "tglPelaksanaan": "10/06/2026",
+      "tglExpired": "10/06/2028",
+      "sertifikatUrl": "-",
+      "oleh": "Hesi Admo"
+    }
+  ],
+  "dataMcu": [
+    {
+      "rowId": 2,
+      "timestamp": "01/06/2026 08:35:10",
+      "nrp": "712988",
+      "nama": "Muhammad Ali",
+      "tglMcu": "01/06/2026",
+      "jenisMcu": "Tahunan Berkala",
+      "hasilMcu": "Fit",
+      "statusMcu": "Lulus",
+      "tglExpiredMcu": "01/06/2027",
+      "catatanMcu": "Kondisi sehat walafiat, tekanan darah prima.",
+      "operator": "Hesi Admo"
+    },
+    {
+      "rowId": 3,
+      "timestamp": "02/06/2026 09:12:00",
+      "nrp": "512301",
+      "nama": "Susi Susanti",
+      "tglMcu": "02/06/2026",
+      "jenisMcu": "Pra-Kerja",
+      "hasilMcu": "Fit with Note",
+      "statusMcu": "Lulus",
+      "tglExpiredMcu": "02/06/2027",
+      "catatanMcu": "Disarankan kurangi asupan gula berlebih.",
+      "operator": "Hesi Admo"
+    }
+  ],
+  "masterItem": [
+    {
+      "namaBarang": "APAR Powder 6kg",
+      "idAlat": "APAR-01",
+      "posisi": "Main Office Lantai 1"
+    },
+    {
+      "namaBarang": "APAR CO2 5kg",
+      "idAlat": "APAR-02",
+      "posisi": "Gudang Konsinyasi"
+    },
+    {
+      "namaBarang": "Kotak P3K Tipe B",
+      "idAlat": "P3K-01",
+      "posisi": "Workshop Mekanik"
+    },
+    {
+      "namaBarang": "Pencuci Mata (Eye Wash)",
+      "idAlat": "EW-01",
+      "posisi": "Charging Area Battery"
+    }
+  ],
+  "historyInspeksi": [
+    {
+      "idInspeksi": "INSP-84920",
+      "bulan": "Juni",
+      "tahun": "2026",
+      "namaBarang": "APAR Powder 6kg",
+      "idAlat": "APAR-01",
+      "posisi": "Main Office Lantai 1",
+      "tanggal": "15/06/2026",
+      "pic": "Hesi Admo",
+      "kondisi": "Baik",
+      "temuan": "-",
+      "linkFoto": "https://storage.googleapis.com/codes-assets/placeholder-photo.jpg"
+    }
+  ],
+  "masterApd": [
+    "Kacamata",
+    "Helm Safety Biru",
+    "Helm Safety Kuning",
+    "Helm Safety Hijau",
+    "Helm Safety Putih",
+    "Tali Helm",
+    "Earplug",
+    "Safety Shoes No. 5 / Uk. 38",
+    "Safety Shoes No. 6 / Uk. 40",
+    "Safety Shoes No. 7 / Uk. 41",
+    "Safety Shoes No. 8 / Uk. 42",
+    "Safety Shoes No. 9 / Uk. 43",
+    "Safety Shoes No. 10 / Uk. 45",
+    "Safety Shoes No. 11 / Uk. 46"
+  ],
+  "dpb_archives": [
+    {
+      "id": "dpb-1722550000001",
+      "noReg": "DPB/2026/08/001",
+      "dimintaOleh": "Hesi Admo",
+      "departemen": "HSE & Safety",
+      "tanggal": "2026-08-01",
+      "items": [
+        {
+          "id": "item-1",
+          "description": "Helm Safety Putih (Petro) Sertifikasi SNI",
+          "qty": 5,
+          "uom": "Pcs",
+          "priority": "P1"
+        },
+        {
+          "id": "item-2",
+          "description": "Kacamata Safety Bening (Anti Fog)",
+          "qty": 10,
+          "uom": "Pcs",
+          "priority": "P2"
+        }
+      ],
+      "jabatanAdmin": "Admin HSE",
+      "namaAdmin": "Hesi Admo",
+      "jabatanGlSupervisor": "GL / Supervisor",
+      "namaGlSupervisor": "Yuda Pratama Rianto",
+      "jabatanDeputyPjo": "Deputy PJO",
+      "namaDeputyPjo": "Pak Muhammad Ali",
+      "jabatanPjo": "PJO",
+      "namaPjo": "Pak Rifki Hidayat",
+      "approverMode": "both",
+      "note": "Permintaan kebutuhan APD operasional tim HSE bulan Agustus 2026.",
+      "photos": [],
+      "createdAt": "2026-08-01T10:00:00.000Z",
+      "createdBy": "Hesi Admo"
+    },
+    {
+      "id": "dpb-1722550000002",
+      "noReg": "DPB/2026/08/002",
+      "dimintaOleh": "Subhannor",
+      "departemen": "Service",
+      "tanggal": "2026-08-02",
+      "items": [
+        {
+          "id": "item-1",
+          "description": "Safety Shoes No. 8 / Uk. 42",
+          "qty": 2,
+          "uom": "Pair",
+          "priority": "P1"
+        },
+        {
+          "id": "item-2",
+          "description": "Earplug Safety 3M",
+          "qty": 15,
+          "uom": "Pcs",
+          "priority": "P3"
+        }
+      ],
+      "jabatanAdmin": "Admin",
+      "namaAdmin": "Subhannor",
+      "jabatanGlSupervisor": "GL / Supervisor",
+      "namaGlSupervisor": "Yuda Pratama Rianto",
+      "jabatanDeputyPjo": "Deputy PJO",
+      "namaDeputyPjo": "-",
+      "jabatanPjo": "PJO",
+      "namaPjo": "Pak Rifki Hidayat",
+      "approverMode": "pjo",
+      "note": "Penggantian APD aus mekanik workshop.",
+      "photos": [],
+      "createdAt": "2026-08-02T08:30:00.000Z",
+      "createdBy": "Subhannor"
+    }
+  ],
+  "bak_archives": [
+    {
+      "id": "bak-1722550000001",
+      "docNumber": "01/SVC/ITU/VIII/2026",
+      "dept": "Service",
+      "applicant": "Additional Asset",
+      "branchSite": "ITU - FMC SIS ADARO",
+      "noReg": "11",
+      "costCenter": "-",
+      "tanggalKerusakan": "2026-08-01",
+      "items": [
+        {
+          "id": "1",
+          "description": "Impact Wrench 1/2 Inch Makita",
+          "qty": 1,
+          "uom": "Pcs",
+          "lamaPemakaian": "1 Tahun 2 Bulan",
+          "keterangan": "Motor terbelit aus dan konsleting saat pemakaian berat."
+        }
+      ],
+      "gambar1": "",
+      "gambar2": "",
+      "gambar3": "",
+      "keteranganLain": "Kerusakan akibat aus pemakaian rutin di area workshop service.",
+      "tanggalTtd": "2026-08-01",
+      "namaPembuat": "Subhannor",
+      "rolePembuat": "Admin",
+      "namaRequest": "Yuda Pratama Rianto",
+      "roleRequest": "SPV/Foreman",
+      "namaDiketahui": "HSE Dept.",
+      "createdAt": "2026-08-01T11:00:00.000Z",
+      "createdBy": "Subhannor",
+      "ttdPembuat": "",
+      "ttdRequest": "",
+      "ttdDiketahui": ""
+    }
+  ],
+  "temuanMio": [],
+  "vendors": [],
+  "evaluations": [],
+  "vendorWeights": {
+    "user": 40,
+    "hse": 30,
+    "ga": 30
+  },
+  "settings": {
+    "absensiMitra": {
+      "lat": -6.2,
+      "lng": 106.816666,
+      "radius": 2000
+    },
+    "googleAppsScriptUrl": "https://script.google.com/macros/s/AKfycbwC8hjvQZkW8nYvPwbmb7zpDfEu5tZkgc5uao-DYHgKr3LHMgvy6Z_4sIYmugn0LnCO/exec"
+  }
+}

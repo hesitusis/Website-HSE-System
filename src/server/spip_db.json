@@ -1,0 +1,3438 @@
+{
+  "Data SPIP": [
+    {
+      "golongan": "Sarana",
+      "item": "1. Kendaraan Mobilisasi Karyawan",
+      "subItem": "1.1 Kendaraan Kecil / Micro Bus",
+      "jumlah": "1",
+      "pemeriksaan": "Harian (P2H) & Weekly Inspection",
+      "perawatan": "/ 10.000 Km",
+      "komisioning": "Semester & Tahunan",
+      "keterangan": "ITU 005, 006",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "3"
+    },
+    {
+      "golongan": "Sarana",
+      "item": "1. Kendaraan Mobilisasi Karyawan",
+      "subItem": "1.2 Kendaraan Mini Bus (elf, Hiace, Mini Bus)",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "ITU 005, 010",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "4"
+    },
+    {
+      "golongan": "Sarana",
+      "item": "1. Kendaraan Mobilisasi Karyawan",
+      "subItem": "1.3 Mobil Pick Up",
+      "jumlah": "4",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "ITU 002, 003, 004, 007",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "5"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "2. Bangunan Kantor",
+      "subItem": "",
+      "jumlah": "1",
+      "pemeriksaan": "Monthly Inspection",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "6"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "3. Bangunan Warehouse",
+      "subItem": "",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "7"
+    },
+    {
+      "golongan": "Instalasi Pertambangan",
+      "item": "4. Instalasi Listrik",
+      "subItem": "4.1 Instalasi Low Voltage 220 (Office)",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "8"
+    },
+    {
+      "golongan": "Instalasi Pertambangan",
+      "item": "4. Instalasi Listrik",
+      "subItem": "4.2 Instalasi Low Voltage 220 (Warehouse)",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "9"
+    },
+    {
+      "golongan": "Instalasi Pertambangan",
+      "item": "5. Instalasi Air",
+      "subItem": "5.1 Instalasi Air di Office",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "10"
+    },
+    {
+      "golongan": "Instalasi Pertambangan",
+      "item": "6. Instalasi proteksi kebakaran",
+      "subItem": "6.1 Instalasi Proteksi Kebakaran di Warehouse",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "11"
+    },
+    {
+      "golongan": "Instalasi Pertambangan",
+      "item": "7. Instalasi Jaringan Internet",
+      "subItem": "7.1 Instalasi Jaringan WIFI Office",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "12"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "8. Pesawat Angkut",
+      "subItem": "8.1 Forklift (5 Ton)",
+      "jumlah": "1",
+      "pemeriksaan": "Weekly Inspection",
+      "perawatan": "/ 250 Km",
+      "komisioning": "Tahunan",
+      "keterangan": "ITU 009",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "13"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "8. Pesawat Angkut",
+      "subItem": "8.2 HD /OHT (Volvo R100E)",
+      "jumlah": "20",
+      "pemeriksaan": "Periodic Inspection",
+      "perawatan": "Periodic HM",
+      "komisioning": "Tahunan",
+      "keterangan": "DT - 635, 636, 637, 638, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663,664\n (20 Unit Volvo R100E)",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "14"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "8. Pesawat Angkut",
+      "subItem": "34.6 Fix Stand",
+      "jumlah": "2",
+      "pemeriksaan": "Monthly Inspection",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "15"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "9. Peralatan Bantu Angkat / Lifting Gear",
+      "subItem": "35.1 Shackle",
+      "jumlah": "13",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "16"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "9. Peralatan Bantu Angkat / Lifting Gear",
+      "subItem": "35.3 Webbing Sling",
+      "jumlah": "3",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "17"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "10. Power tools",
+      "subItem": "39.1 Impact",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "18"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "10. Power tools",
+      "subItem": "39.3 Grinding",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "19"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "11. Electrical Tools / Measurement Tools",
+      "subItem": "40.1 Multi Tester",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "20"
+    },
+    {
+      "golongan": "Prasarana",
+      "item": "11. Electrical Tools / Measurement Tools",
+      "subItem": "40.2 Calipper",
+      "jumlah": "1",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "21"
+    },
+    {
+      "golongan": "Peralatan Pertambangan",
+      "item": "Peralatan Komunikasi",
+      "subItem": "Handy Talkie",
+      "jumlah": "10",
+      "pemeriksaan": "",
+      "perawatan": "",
+      "komisioning": "",
+      "keterangan": "",
+      "dokumenUrl": "",
+      "fotoUrl": "",
+      "id": "22"
+    }
+  ],
+  "data sarana": [
+    {
+      "noLambung": "ITU 002",
+      "jenisSarana": "Pick Up",
+      "merek": "Toyota",
+      "model": "Hilux DC 2,4 G",
+      "tahun": "2023",
+      "status": "Siap Operasi",
+      "lokasi": "Mia 4",
+      "id": "1"
+    },
+    {
+      "noLambung": "ITU 003",
+      "jenisSarana": "Pick Up",
+      "merek": "Toyota",
+      "model": "Hilux DC 2,4 G",
+      "tahun": "2023",
+      "status": "Siap Operasi",
+      "lokasi": "Mia 4",
+      "id": "2"
+    },
+    {
+      "noLambung": "ITU 004",
+      "jenisSarana": "Pick Up",
+      "merek": "Toyota",
+      "model": "Pick up Hilux",
+      "tahun": "2023",
+      "status": "Siap Operasi",
+      "lokasi": "Mia 4",
+      "id": "3"
+    },
+    {
+      "noLambung": "ITU 005",
+      "jenisSarana": "Station",
+      "merek": "Toyota",
+      "model": "Innova",
+      "tahun": "2022",
+      "status": "Siap Operasi",
+      "lokasi": "Mia 4",
+      "id": "4"
+    },
+    {
+      "noLambung": "ITU 006",
+      "jenisSarana": "Bus",
+      "merek": "Isuzu",
+      "model": "Microbus",
+      "tahun": "2022",
+      "status": "Siap Operasi",
+      "lokasi": "Mia 4",
+      "id": "5"
+    },
+    {
+      "noLambung": "ITU 007",
+      "jenisSarana": "Pick Up",
+      "merek": "Mitsubishi",
+      "model": "Triton 2,4 DC GLS",
+      "tahun": "2022",
+      "status": "Siap Operasi",
+      "lokasi": "Mia 4",
+      "id": "6"
+    },
+    {
+      "noLambung": "ITU 009",
+      "jenisSarana": "Alat Angkat",
+      "merek": "Manitou",
+      "model": "MI-X50D",
+      "tahun": "2023",
+      "status": "Siap Operasi",
+      "lokasi": "Mia 4",
+      "id": "7"
+    },
+    {
+      "noLambung": "ITU 011",
+      "jenisSarana": "Station",
+      "merek": "Toyota",
+      "model": "Microbus",
+      "tahun": "2025",
+      "status": "Siap Operasi",
+      "lokasi": "Mia 4",
+      "id": "8"
+    }
+  ],
+  "Data Unit HD": [
+    {
+      "noLambung": "0638",
+      "jenis": "Volvo R100",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "30-Nov-24",
+      "expired": "30-Nov-26",
+      "fotoUrl": "",
+      "id": "2"
+    },
+    {
+      "noLambung": "0635",
+      "jenis": "Volvo R101",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "30-Nov-24",
+      "expired": "30-Nov-26",
+      "fotoUrl": "",
+      "id": "3"
+    },
+    {
+      "noLambung": "0636",
+      "jenis": "Volvo R102",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "2-Des-24",
+      "expired": "2-Des-26",
+      "fotoUrl": "",
+      "id": "4"
+    },
+    {
+      "noLambung": "0637",
+      "jenis": "Volvo R103",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "6-Des-24",
+      "expired": "6-Des-26",
+      "fotoUrl": "",
+      "id": "5"
+    },
+    {
+      "noLambung": "0650",
+      "jenis": "Volvo R104",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "9-Des-24",
+      "expired": "9-Des-26",
+      "fotoUrl": "",
+      "id": "6"
+    },
+    {
+      "noLambung": "0649",
+      "jenis": "Volvo R105",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "9-Des-24",
+      "expired": "9-Des-26",
+      "fotoUrl": "",
+      "id": "7"
+    },
+    {
+      "noLambung": "0658",
+      "jenis": "Volvo R106",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "28-Des-24",
+      "expired": "28-Des-26",
+      "fotoUrl": "",
+      "id": "8"
+    },
+    {
+      "noLambung": "0655",
+      "jenis": "Volvo R107",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "28-Des-24",
+      "expired": "28-Des-26",
+      "fotoUrl": "",
+      "id": "9"
+    },
+    {
+      "noLambung": "0654",
+      "jenis": "Volvo R108",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "29-Des-24",
+      "expired": "29-Des-26",
+      "fotoUrl": "",
+      "id": "10"
+    },
+    {
+      "noLambung": "0651",
+      "jenis": "Volvo R109",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "29-Des-24",
+      "expired": "29-Des-26",
+      "fotoUrl": "",
+      "id": "11"
+    },
+    {
+      "noLambung": "0657",
+      "jenis": "Volvo R110",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "30-Des-24",
+      "expired": "30-Des-26",
+      "fotoUrl": "",
+      "id": "12"
+    },
+    {
+      "noLambung": "0656",
+      "jenis": "Volvo R111",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "30-Des-24",
+      "expired": "30-Des-26",
+      "fotoUrl": "",
+      "id": "13"
+    },
+    {
+      "noLambung": "0653",
+      "jenis": "Volvo R112",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "5-Jan-25",
+      "expired": "5-Jan-27",
+      "fotoUrl": "",
+      "id": "14"
+    },
+    {
+      "noLambung": "0652",
+      "jenis": "Volvo R113",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "5-Jan-25",
+      "expired": "5-Jan-27",
+      "fotoUrl": "",
+      "id": "15"
+    },
+    {
+      "noLambung": "0661",
+      "jenis": "Volvo R114",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "13-Feb-25",
+      "expired": "13-Feb-27",
+      "fotoUrl": "",
+      "id": "16"
+    },
+    {
+      "noLambung": "0660",
+      "jenis": "Volvo R115",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "14-Feb-25",
+      "expired": "14-Feb-27",
+      "fotoUrl": "",
+      "id": "17"
+    },
+    {
+      "noLambung": "0659",
+      "jenis": "Volvo R116",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "14-Feb-25",
+      "expired": "14-Feb-27",
+      "fotoUrl": "",
+      "id": "18"
+    },
+    {
+      "noLambung": "0664",
+      "jenis": "Volvo R117",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "9-Mar-25",
+      "expired": "9-Mar-27",
+      "fotoUrl": "",
+      "id": "19"
+    },
+    {
+      "noLambung": "0663",
+      "jenis": "Volvo R118",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "9-Mar-25",
+      "expired": "9-Mar-27",
+      "fotoUrl": "",
+      "id": "20"
+    },
+    {
+      "noLambung": "0662",
+      "jenis": "Volvo R119",
+      "status": "Ready",
+      "lokasi": "SIS Area",
+      "komisioning": "13-Mar-25",
+      "expired": "13-Mar-27",
+      "fotoUrl": "",
+      "id": "21"
+    }
+  ],
+  "resume Servis": [
+    {
+      "tanggal": "25-Mar-26",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "Ganti oli mesin",
+      "mekanik": "24",
+      "status": "5.000",
+      "id": "2"
+    },
+    {
+      "tanggal": "12-Jun-26",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "Ganti oli mesin, oli differential, \ntransfer, transmisi, oli filter, fuel filter",
+      "mekanik": "211",
+      "status": "5.000",
+      "id": "3"
+    },
+    {
+      "tanggal": "29-Agu-26",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-123.250",
+      "status": "Scheduled",
+      "id": "4"
+    },
+    {
+      "tanggal": "15-Nov-26",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "5"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "6"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "7"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "8"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "9"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "10"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 002",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "11"
+    },
+    {
+      "tanggal": "3-Jun-26",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "Ganti oli mesin",
+      "mekanik": "172",
+      "status": "5.000",
+      "id": "12"
+    },
+    {
+      "tanggal": "20-Agu-26",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-152.415",
+      "status": "Scheduled",
+      "id": "13"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "14"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "15"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "16"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "17"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "18"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "19"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "20"
+    },
+    {
+      "tanggal": "18-Mar-00",
+      "noLambung": "ITU 003",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "21"
+    },
+    {
+      "tanggal": "27-Jan-26",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "Ganti oli mesin, oli gardan",
+      "mekanik": "14",
+      "status": "5.000",
+      "id": "22"
+    },
+    {
+      "tanggal": "19-Jun-26",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "Ganti oli mesin, oli transmisi,\noli gardan, oli filter, fuel filter, air cleaner dibersihkan",
+      "mekanik": "10",
+      "status": "5.000",
+      "id": "23"
+    },
+    {
+      "tanggal": "7-Nov-26",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-71.728",
+      "status": "Scheduled",
+      "id": "24"
+    },
+    {
+      "tanggal": "22-Mei-00",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "25"
+    },
+    {
+      "tanggal": "22-Mei-00",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "26"
+    },
+    {
+      "tanggal": "22-Mei-00",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "27"
+    },
+    {
+      "tanggal": "22-Mei-00",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "28"
+    },
+    {
+      "tanggal": "22-Mei-00",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "29"
+    },
+    {
+      "tanggal": "22-Mei-00",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "30"
+    },
+    {
+      "tanggal": "22-Mei-00",
+      "noLambung": "ITU 004",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "31"
+    },
+    {
+      "tanggal": "3-Jun-26",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "Ganti oli mesin",
+      "mekanik": "58",
+      "status": "5.000",
+      "id": "32"
+    },
+    {
+      "tanggal": "29-Jul-26",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-152.415",
+      "status": "Scheduled",
+      "id": "33"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "34"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "35"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "36"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "37"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "38"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "39"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "40"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 005",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "41"
+    },
+    {
+      "tanggal": "1-Jul-26",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "Ganti oli mesin",
+      "mekanik": "25",
+      "status": "5.000",
+      "id": "42"
+    },
+    {
+      "tanggal": "26-Agu-26",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-97.470",
+      "status": "Scheduled",
+      "id": "43"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "44"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "45"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "46"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "47"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "48"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "49"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "50"
+    },
+    {
+      "tanggal": "24-Feb-00",
+      "noLambung": "ITU 007",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "-5.000",
+      "status": "Scheduled",
+      "id": "51"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "52"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "53"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "54"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "55"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "56"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "57"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "58"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "59"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "60"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 009",
+      "jenisServis": "Forklift",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "61"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "62"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "63"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "64"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "65"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "66"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "67"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "68"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "69"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "70"
+    },
+    {
+      "tanggal": "",
+      "noLambung": "ITU 011",
+      "jenisServis": "Sarana",
+      "deskripsi": "",
+      "mekanik": "0",
+      "status": "Scheduled",
+      "id": "71"
+    }
+  ],
+  "kalibrasi": [
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-003",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "1"
+    },
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-004",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "2"
+    },
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-005",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "3"
+    },
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-006",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "4"
+    },
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-007",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "5"
+    },
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-008",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "6"
+    },
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-009",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "7"
+    },
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-010",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "8"
+    },
+    {
+      "namaAlat": "Torque Wrench 100 mm",
+      "noSertifikat": "CRT-KLB-2026-011",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "9"
+    },
+    {
+      "namaAlat": "Torque Wrench 400-2000 N.m",
+      "noSertifikat": "CRT-KLB-2026-012",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "10"
+    },
+    {
+      "namaAlat": "Torque Wrench 65-335 N.m",
+      "noSertifikat": "CRT-KLB-2026-013",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "11"
+    },
+    {
+      "namaAlat": "Torque Wrench 65-335 N.m",
+      "noSertifikat": "CRT-KLB-2026-014",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "12"
+    },
+    {
+      "namaAlat": "Torque Wrench 100-500 N.m",
+      "noSertifikat": "CRT-KLB-2026-015",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "13"
+    },
+    {
+      "namaAlat": "Torque Multiplier 1/2\" X 1\" - STARCROME",
+      "noSertifikat": "CRT-KLB-2026-016",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "14"
+    },
+    {
+      "namaAlat": "Torque Multiplier 1/2'' X 1'' starcrome 4500NM",
+      "noSertifikat": "CRT-KLB-2026-017",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "15"
+    },
+    {
+      "namaAlat": "3'' digital pressure gauge Starcrome 0-700 bar",
+      "noSertifikat": "CRT-KLB-2026-018",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "16"
+    },
+    {
+      "namaAlat": "3'' digital pressure gauge Starcrome 0-700 bar",
+      "noSertifikat": "CRT-KLB-2026-019",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "17"
+    },
+    {
+      "namaAlat": "Digital Pressure Gauge 25 Mpa Tester\nMeter 25 MPA Hydraulic 250 BAR",
+      "noSertifikat": "CRT-KLB-2026-020",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "18"
+    },
+    {
+      "namaAlat": "Digital Pressure Gauge 25 Mpa Tester\nMeter 25 MPA Hydraulic 250 BAR",
+      "noSertifikat": "CRT-KLB-2026-021",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "19"
+    },
+    {
+      "namaAlat": "Pressure Gauge 25 - 100 Psi Digital",
+      "noSertifikat": "CRT-KLB-2026-022",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "20"
+    },
+    {
+      "namaAlat": "Timbangan manual 400 kg plate size : 600 X 450\nmm-NAGATA",
+      "noSertifikat": "CRT-KLB-2026-023",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "21"
+    },
+    {
+      "namaAlat": "ENVIRONTMENT METER 5 IN 1 PRO",
+      "noSertifikat": "CRT-KLB-2026-024",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "22"
+    },
+    {
+      "namaAlat": "Enerpac Hydraulik Pump",
+      "noSertifikat": "CRT-KLB-2026-025",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "23"
+    },
+    {
+      "namaAlat": "Hydraulik Jack 150 Ton",
+      "noSertifikat": "CRT-KLB-2026-026",
+      "tanggalKalibrasi": "2026-01-15",
+      "expired": "2027-01-15",
+      "sisaHari": "194",
+      "status": "Aman",
+      "sertifikatUrl": "",
+      "reminder": "",
+      "id": "24"
+    }
+  ],
+  "Daftar Masa SPIP": [
+    {
+      "nama": "Light Vehicle",
+      "noLambung": "ITU 002",
+      "komisioning": "13-Mar-25",
+      "expired": "6-Apr-26",
+      "sisaHari": "-90",
+      "status": "Expired",
+      "pic": "AI Team",
+      "planning": "Februari 2026",
+      "id": "1"
+    },
+    {
+      "nama": "Light Vehicle",
+      "noLambung": "ITU 003",
+      "komisioning": "27-Mar-25",
+      "expired": "6-Apr-26",
+      "sisaHari": "-90",
+      "status": "Expired",
+      "pic": "AI Team",
+      "planning": "Februari 2026",
+      "id": "2"
+    },
+    {
+      "nama": "Light Vehicle",
+      "noLambung": "ITU 004",
+      "komisioning": "27-Jan-25",
+      "expired": "7-Feb-26",
+      "sisaHari": "-148",
+      "status": "Expired",
+      "pic": "AI Team",
+      "planning": "Desember 2025",
+      "id": "3"
+    },
+    {
+      "nama": "Light Vehicle",
+      "noLambung": "ITU 005",
+      "komisioning": "8-Nov-24",
+      "expired": "6-Des-25",
+      "sisaHari": "-211",
+      "status": "Expired",
+      "pic": "AI Team",
+      "planning": "Oktober 2025",
+      "id": "4"
+    },
+    {
+      "nama": "Micro Bus/Elf",
+      "noLambung": "ITU 006",
+      "komisioning": "17-Feb-25",
+      "expired": "27-Feb-26",
+      "sisaHari": "-128",
+      "status": "Expired",
+      "pic": "AI Team",
+      "planning": "Januari 2026",
+      "id": "5"
+    },
+    {
+      "nama": "Light Vehicle",
+      "noLambung": "ITU 007",
+      "komisioning": "1-Jul-24",
+      "expired": "27-Jul-25",
+      "sisaHari": "-343",
+      "status": "Expired",
+      "pic": "AI Team",
+      "planning": "Juli 2026",
+      "id": "6"
+    },
+    {
+      "nama": "Forklift 5 Ton",
+      "noLambung": "ITU 009",
+      "komisioning": "",
+      "expired": "22-Des-25",
+      "sisaHari": "",
+      "status": "Aman",
+      "pic": "AI Team",
+      "planning": "Oktober 2025",
+      "id": "8"
+    }
+  ],
+  "Isuue KO": [
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "1",
+      "unit": "",
+      "pic": "CV. ABS, Dewi, \nRahmat",
+      "status": "Open",
+      "dueDate": "15-Nov-25",
+      "keterangan": "Temuan hasil komisioning \ninternal SIS ITU 004",
+      "fotoUrl": "",
+      "komentar": "Follow Up perbaikan hasil komisioning \ninternal SIS ITU 004 ke vendor CV. ABS",
+      "riwayat": "Menunggu settingan sarana dari tim GA",
+      "id": "1"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "",
+      "unit": "",
+      "pic": "CV. KSM, Dewi, \nRahmat",
+      "status": "Open",
+      "dueDate": "20-Nov-25",
+      "keterangan": "Temuan hasil komisioning \ninternal SIS ITU 002",
+      "fotoUrl": "",
+      "komentar": "Follow Up perbaikan hasil komisioning \ninternal SIS ITU 002 ke vendor CV. KSM",
+      "riwayat": "Menunggu settingan sarana dari tim GA",
+      "id": "2"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "2",
+      "unit": "",
+      "pic": "CV. KSM, Dewi, \nRahmat",
+      "status": "Open",
+      "dueDate": "20-Nov-25",
+      "keterangan": "Temuan hasil komisioning \ninternal SIS ITU 003",
+      "fotoUrl": "",
+      "komentar": "Follow Up perbaikan hasil komisioning \ninternal SIS ITU 003 ke vendor CV. KSM",
+      "riwayat": "Menunggu settingan sarana dari tim GA",
+      "id": "3"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "4",
+      "unit": "",
+      "pic": "Dewi, Rahmat",
+      "status": "Open",
+      "dueDate": "15-Nov-25",
+      "keterangan": "Sertifikasi Forklift ITU 009 yang akan \nexpired tgl 22 Des 25",
+      "fotoUrl": "",
+      "komentar": "Segera melakukan koordinasi dengan vendor untuk jadwal sertifikasi",
+      "riwayat": "Menunggu fix koordinasi vendor sertifkasi dari tim GA",
+      "id": "4"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "5",
+      "unit": "",
+      "pic": "Dewi, Rahmat",
+      "status": "Open",
+      "dueDate": "5-Nov-25",
+      "keterangan": "Historical Maintenance Forklift ITU 009 belum update, untuk syarat perpanjang rekom",
+      "fotoUrl": "",
+      "komentar": "Melaksanakan servis dari ITR dan mengambil \nDokumentasi pelaksanaannya dengan APD Lengkap",
+      "riwayat": "Menunggu kedatangan Tim ITR",
+      "id": "5"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "6",
+      "unit": "",
+      "pic": "Rifki",
+      "status": "Open",
+      "dueDate": "31-Okt-25",
+      "keterangan": "Belum dilakukan pemindahan server internet \nke bangunan baru milik SIS",
+      "fotoUrl": "",
+      "komentar": "Mendatangkan teknisi Primacom",
+      "riwayat": "Menunggu konfirmasi ulang dari pihak \nPrimacom terkait kedatangan ke Site",
+      "id": "6"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "7",
+      "unit": "",
+      "pic": "GA, Safety, \nTim Gudang",
+      "status": "Open",
+      "dueDate": "31-Okt-25",
+      "keterangan": "Bangunan Baru Open Storage belum dilakukan \npengecatan lantai dan demarkasi",
+      "fotoUrl": "",
+      "komentar": "Melaksanakan pengecatan Demarkasi",
+      "riwayat": "Persiapan koordinasi pelaksanaan \npengecatan dengan tim Gudang",
+      "id": "7"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "8",
+      "unit": "",
+      "pic": "GA, Safety, \nTim Gudang",
+      "status": "Open",
+      "dueDate": "5-Nov-25",
+      "keterangan": "Pemasangan/Perakitan rak Open Storage",
+      "fotoUrl": "",
+      "komentar": "Pasang rak untuk memenentukan pengecatan \ndemarkasi",
+      "riwayat": "Koordinasi dari tim Part Gudang",
+      "id": "8"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "9",
+      "unit": "",
+      "pic": "Dewi, Rahmat",
+      "status": "Open",
+      "dueDate": "20-Nov-25",
+      "keterangan": "Belum Kalibrasi alat torque Wrench",
+      "fotoUrl": "",
+      "komentar": "Melaksanakan Kalibrasi torque Wrench",
+      "riwayat": "Tim GA sudah koordinasi dengan vendor untuk kalibrasi",
+      "id": "9"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "10",
+      "unit": "",
+      "pic": "Dewi, Rahmat",
+      "status": "Continue",
+      "dueDate": "-",
+      "keterangan": "Pelaksanaan Preventif Maintenance belum \ndilakukan dengan memadai",
+      "fotoUrl": "",
+      "komentar": "Pengecekan kondisi kaliper brake dan kampas rem ke 4 roda juga dilakukan pada saat jadwal servis (setiap servis tim Safety KO memberikan form ceklist dan wajib dokumentasi Pelaksanaan dengan APD Lengkap)",
+      "riwayat": "-",
+      "id": "10"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "11",
+      "unit": "",
+      "pic": "Dewi, Rahmat",
+      "status": "Open",
+      "dueDate": "20-Nov-25",
+      "keterangan": "Area kran air yang berdekatan dengan panel \nbox listrik, yang berpotensi tersengat arus listrik",
+      "fotoUrl": "",
+      "komentar": "Pemindahan kran air (area pencucian sepatu di \nsamping Gudang",
+      "riwayat": "Segera Koordinasi dengan tim GA \nterkait fasilitas pemindahan",
+      "id": "11"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "12",
+      "unit": "",
+      "pic": "Dewi, Triyono",
+      "status": "Open",
+      "dueDate": "28-Okt-25",
+      "keterangan": "Lampu di atas area Panel Box arah cahanya terhalang atap",
+      "fotoUrl": "",
+      "komentar": "Reposisi lampu",
+      "riwayat": "Segera jadwalkan dari tim GA untuk melakukan pemindahan",
+      "id": "12"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "1",
+      "unit": "",
+      "pic": "CV. ABS, Dewi, \nRahmat",
+      "status": "Proggress",
+      "dueDate": "15-Nov-25",
+      "keterangan": "Temuan hasil komisioning \ninternal SIS ITU 004",
+      "fotoUrl": "",
+      "komentar": "Follow Up perbaikan hasil komisioning \ninternal SIS ITU 004 ke vendor CV. ABS",
+      "riwayat": "Dalam perbaikan dari CV ABS",
+      "id": "22"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "2",
+      "unit": "",
+      "pic": "CV. KSM, Dewi, \nRahmat",
+      "status": "Proggress",
+      "dueDate": "20-Nov-25",
+      "keterangan": "Temuan hasil komisioning \ninternal SIS ITU 002",
+      "fotoUrl": "",
+      "komentar": "Follow Up perbaikan hasil komisioning \ninternal SIS ITU 002 ke vendor CV. KSM",
+      "riwayat": "Menunggu settingan sarana dari tim GA",
+      "id": "23"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "3",
+      "unit": "",
+      "pic": "Dewi, Rahmat",
+      "status": "Proggress",
+      "dueDate": "20-Nov-25",
+      "keterangan": "Sertifikasi Forklift ITU 009 yang akan \nexpired tgl 22 Des 25",
+      "fotoUrl": "",
+      "komentar": "Segera melakukan koordinasi dengan vendor untuk jadwal sertifikasi",
+      "riwayat": "Menunggu fix koordinasi vendor sertifkasi dari tim GA",
+      "id": "24"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "4",
+      "unit": "",
+      "pic": "GA, Safety, \nTim Gudang",
+      "status": "Proggress",
+      "dueDate": "31-Okt-25",
+      "keterangan": "Bangunan Baru Open Storage belum dilakukan \nKomisioning",
+      "fotoUrl": "",
+      "komentar": "Melaksanakan perlengkapan dan pemadatan \nhalaman",
+      "riwayat": "Menunggu approval surat komisioning dan sambil proses melengkapi syarat dan pemadatan halaman open storage",
+      "id": "25"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "5",
+      "unit": "",
+      "pic": "Dewi, Rahmat",
+      "status": "Proggress",
+      "dueDate": "20-Nov-25",
+      "keterangan": "Belum Kalibrasi alat torque Wrench",
+      "fotoUrl": "",
+      "komentar": "Melaksanakan Kalibrasi torque Wrench",
+      "riwayat": "Tim GA sudah koordinasi dengan vendor untuk kalibrasi",
+      "id": "26"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "6",
+      "unit": "",
+      "pic": "GA, Safety, \ndan CV KSM",
+      "status": "Proggress",
+      "dueDate": "20-Nov-25",
+      "keterangan": "Support Perlengkapan dan persyaratan komisioning  sarana dari CV. KSM yang lambat",
+      "fotoUrl": "",
+      "komentar": "Membuat pertemuan dari Indotruck  Perwakilan \nsite  dengan CV. KSM membahas perencanaan perbaikan kedepan",
+      "riwayat": "Membuat pertemuan dari Indotruck  Perwakilan \nsite  dengan CV. KSM membahas perencanaan perbaikan kedepan",
+      "id": "27"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "1",
+      "unit": "",
+      "pic": "CV. KSM, Dewi, \nRahmat",
+      "status": "Proggress",
+      "dueDate": "15-Apr-26",
+      "keterangan": "Sarana ITU 003 sudah expired komisioning",
+      "fotoUrl": "",
+      "komentar": "Perbaikan unit yang masih breakdown",
+      "riwayat": "Perbaikan di bengkel terkait overhaule\n silinder head",
+      "id": "36"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "1",
+      "unit": "",
+      "pic": "CV. KSM, Dewi, \nRahmat",
+      "status": "Proggress",
+      "dueDate": "_",
+      "keterangan": "Sarana ITU 003 sudah expired komisioning",
+      "fotoUrl": "",
+      "komentar": "Perbaikan unit yang masih breakdown",
+      "riwayat": "Perbaikan di bengkel terkait overhaule\n silinder head",
+      "id": "44"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "2",
+      "unit": "",
+      "pic": "CV. KSM, Dewi, \nRahmat",
+      "status": "Proggress",
+      "dueDate": "_",
+      "keterangan": "GPS ITU 007 masih belum dipasang",
+      "fotoUrl": "",
+      "komentar": "Dari Vendor KSM masih belum ada progress",
+      "riwayat": "Belum ada proggress",
+      "id": "45"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "3",
+      "unit": "",
+      "pic": "HRGA ITU",
+      "status": "Proggress",
+      "dueDate": "_",
+      "keterangan": "Pelaksanaan perbaikan, servis, dan permintaan perlengkapan sarana slow respon dari vendor KSM dikarenakan dengan alasan pembayaran Invoice sarana yang belum di bayar",
+      "fotoUrl": "",
+      "komentar": "(Menunggu tanggapan dari tim HRGA)",
+      "riwayat": "Belum ada proggress",
+      "id": "46"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "4",
+      "unit": "",
+      "pic": "HRGA dan Services",
+      "status": "Proggress",
+      "dueDate": "_",
+      "keterangan": "Temuan berulang kunci roda dan dongkrak sering hilang",
+      "fotoUrl": "",
+      "komentar": "(Menunggu tanggapan dari tim HRGA dan Services)",
+      "riwayat": "Belum ada proggress",
+      "id": "47"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "5",
+      "unit": "",
+      "pic": "HRGA ITU",
+      "status": "Proggress",
+      "dueDate": "_",
+      "keterangan": "Persiapan Komisioning ITU 005 (unit masih ada beberapa temuan dari inspeksi internal) seperti ac dll",
+      "fotoUrl": "",
+      "komentar": "(Menunggu tanggapan dari tim HRGA)",
+      "riwayat": "Belum ada proggress",
+      "id": "48"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "1",
+      "unit": "",
+      "pic": "CV. KSM, Dewi, \nRahmat",
+      "status": "Proggress",
+      "dueDate": "_",
+      "keterangan": "Sarana ITU 003 sudah expired komisioning",
+      "fotoUrl": "",
+      "komentar": "Perbaikan unit yang masih breakdown",
+      "riwayat": "Melengkapi kekurangan persyaratan perpanjangan komisioning",
+      "id": "54"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "2",
+      "unit": "",
+      "pic": "GA",
+      "status": "????",
+      "dueDate": "Juni 2026",
+      "keterangan": "Spindel forklift ITU 009 Oblak",
+      "fotoUrl": "",
+      "komentar": "Order part dari tim GA untuk diperbaiki",
+      "riwayat": "Menunggu part datang",
+      "id": "55"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "3",
+      "unit": "",
+      "pic": "Servis dan Safety",
+      "status": "????",
+      "dueDate": "",
+      "keterangan": "Penggunaan Webbing sling yang rusak sangat tinggi",
+      "fotoUrl": "",
+      "komentar": "Menunggu tanggapan tim servis ????",
+      "riwayat": "Menunggu tanggapan tim servis ????",
+      "id": "56"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "4",
+      "unit": "",
+      "pic": "GA",
+      "status": "????",
+      "dueDate": "",
+      "keterangan": "Unit ITU 007 yang sering nambah oli (perlu perhatian khusus dari driver dan tim GA)",
+      "fotoUrl": "",
+      "komentar": "Menunggu tanggapan tim GA ????",
+      "riwayat": "Menunggu tanggapan tim GA ????",
+      "id": "57"
+    },
+    {
+      "tanggal": "2025-10-15",
+      "noIssue": "5",
+      "unit": "",
+      "pic": "GA dan Part Gudang",
+      "status": "????",
+      "dueDate": "",
+      "keterangan": "Sertifikasi dan kompetensi Semi Electric stacker",
+      "fotoUrl": "",
+      "komentar": "Menunggu tanggapan tim GA dan Part Gudang ????",
+      "riwayat": "Menunggu tanggapan tim GA dan Part Gudang ????",
+      "id": "58"
+    }
+  ],
+  "foto stiker HD": [
+    {
+      "noLambung": "0635",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "1"
+    },
+    {
+      "noLambung": "0636",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "2"
+    },
+    {
+      "noLambung": "0637",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "6-Des-24",
+      "id": "3"
+    },
+    {
+      "noLambung": "0638",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "4"
+    },
+    {
+      "noLambung": "0649",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "5"
+    },
+    {
+      "noLambung": "0650",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "6"
+    },
+    {
+      "noLambung": "0651",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "29-Des-24",
+      "id": "7"
+    },
+    {
+      "noLambung": "0652",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "8"
+    },
+    {
+      "noLambung": "0653",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "9"
+    },
+    {
+      "noLambung": "0654",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "10"
+    },
+    {
+      "noLambung": "0655",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "11"
+    },
+    {
+      "noLambung": "0656",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "12"
+    },
+    {
+      "noLambung": "0657",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "30-Des-24",
+      "id": "13"
+    },
+    {
+      "noLambung": "0658",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "14"
+    },
+    {
+      "noLambung": "0659",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "15"
+    },
+    {
+      "noLambung": "0660",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "14-Feb-25",
+      "id": "16"
+    },
+    {
+      "noLambung": "0661",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "13-Feb-25",
+      "id": "17"
+    },
+    {
+      "noLambung": "0662",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "13-Mar-25",
+      "id": "18"
+    },
+    {
+      "noLambung": "0663",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "9-Mar-25",
+      "id": "19"
+    },
+    {
+      "noLambung": "0664",
+      "fotoUrl": "",
+      "deskripsi": "Unit Type: R100",
+      "tanggalAmbil": "2026-01-15",
+      "id": "20"
+    }
+  ],
+  "plan 26": [
+    {
+      "id": "plan-8-4-0",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Re komisioning Sarana \n(Adaro): ITU 002 (exp apr 26)",
+      "unit": "ITU 002",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-8-4-1",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Re komisioning Sarana \n(Adaro): ITU 003 (exp mar 26)",
+      "unit": "ITU 003",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-8-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Re komisioning Sarana \n(Adaro): ITU 007 (exp Jul 26)",
+      "unit": "ITU 007",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-8-7-1",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Re komisioning Sarana \n(Adaro): ITU 011 (exp Jul 26)",
+      "unit": "ITU 011",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-8-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Re komisioning Sarana \n(Adaro): ITU 005 (exp Des 26)",
+      "unit": "ITU 005",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-8-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Re komisioning Sarana \n(Adaro): ITU 004 (exp Feb 26)",
+      "unit": "ITU 004",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-9-5-0",
+      "tanggal": "2026-03-15",
+      "kegiatan": "Re komisioning Semester Sarana (SIS): ITU 011",
+      "unit": "ITU 011",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-9-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Re komisioning Semester Sarana (SIS): ITU 007",
+      "unit": "ITU 007",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-9-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Re komisioning Semester Sarana (SIS): ITU 005",
+      "unit": "ITU 005",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-9-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Re komisioning Semester Sarana (SIS): ITU 004",
+      "unit": "ITU 004",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-9-13-0",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Re komisioning Semester Sarana (SIS): ITU 002",
+      "unit": "ITU 002",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-9-13-1",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Re komisioning Semester Sarana (SIS): ITU 003",
+      "unit": "ITU 003",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-10-0",
+      "tanggal": "2026-08-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0638 (exp Nov 26)",
+      "unit": "DT 0638",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-10-1",
+      "tanggal": "2026-08-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0635  (exp Nov 26)",
+      "unit": "DT 0635",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0636  (exp Des 26)",
+      "unit": "DT 0636",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-11-1",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0637  (exp Des 26)",
+      "unit": "DT 0637",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-11-2",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0650  (exp Des 26)",
+      "unit": "DT 0650",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-11-3",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0649  (exp Des 26)",
+      "unit": "DT 0649",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0658  (exp Des 26)",
+      "unit": "DT 0658",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-12-1",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0655  (exp Des 26)",
+      "unit": "DT 0655",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-12-2",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0654  (exp Des 26)",
+      "unit": "DT 0654",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-12-3",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0651  (exp Des 26)",
+      "unit": "DT 0651",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-12-4",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0657  (exp Des 26)",
+      "unit": "DT 0657",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-12-5",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0656  (exp Des 26)",
+      "unit": "DT 0656",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-13-0",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0653  (exp Jan 27)",
+      "unit": "DT 0653",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-13-1",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0652  (exp Jan 27)",
+      "unit": "DT 0652",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-13-2",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0661  (exp Feb 27)",
+      "unit": "DT 0661",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-13-3",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0660  (exp Feb 27)",
+      "unit": "DT 0660",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-13-4",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0659  (exp Feb 27)",
+      "unit": "DT 0659",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0664 (exp Mar 27)",
+      "unit": "DT 0664",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-14-1",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0663  (exp Mar 27)",
+      "unit": "DT 0663",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-10-14-2",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Re komisioning HD R100 \n(Adaro): DT 0662  (exp Mar 27)",
+      "unit": "DT 0662",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-11-4-0",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Bulan K3 2026: 1x (Persiapan",
+      "unit": "Persiapan",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-11-4-1",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Bulan K3 2026: dari Jan 26)",
+      "unit": "dari Jan 2",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-12-5-0",
+      "tanggal": "2026-03-15",
+      "kegiatan": "Pemeriksaan aset sesuai PIC: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-12-8-0",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pemeriksaan aset sesuai PIC: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-12-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Pemeriksaan aset sesuai PIC: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-12-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Pemeriksaan aset sesuai PIC: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-4-0",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-5-0",
+      "tanggal": "2026-03-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-8-0",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-10-0",
+      "tanggal": "2026-08-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-13-0",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-13-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Pemeriksaan Bangunan office dan\n warehouse: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-4-0",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-5-0",
+      "tanggal": "2026-03-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-8-0",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-10-0",
+      "tanggal": "2026-08-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-13-0",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-14-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Pemeriksaan Peralatan Tools & Box: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-4-0",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-5-0",
+      "tanggal": "2026-03-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-8-0",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-10-0",
+      "tanggal": "2026-08-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-13-0",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-15-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Pemeriksaan P3K: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-4-0",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-5-0",
+      "tanggal": "2026-03-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-8-0",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-10-0",
+      "tanggal": "2026-08-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-13-0",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-16-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Pemeriksaan Forklift: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-4-0",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-5-0",
+      "tanggal": "2026-03-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-8-0",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-10-0",
+      "tanggal": "2026-08-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-13-0",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-17-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Pemeriksaan Instalasi air dan \nListrik: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-4-0",
+      "tanggal": "2026-02-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-5-0",
+      "tanggal": "2026-03-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-8-0",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-10-0",
+      "tanggal": "2026-08-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-11-0",
+      "tanggal": "2026-09-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-13-0",
+      "tanggal": "2026-11-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-18-14-0",
+      "tanggal": "2026-12-15",
+      "kegiatan": "Pemeriksaan peralatan LV: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-19-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Pemeriksaan, Hydraulik Jack, \nstand jack, webbing sling, Shackle, hand pallet (BKPM Update): 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-19-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Pemeriksaan, Hydraulik Jack, \nstand jack, webbing sling, Shackle, hand pallet (BKPM Update): 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-19-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Pemeriksaan, Hydraulik Jack, \nstand jack, webbing sling, Shackle, hand pallet (BKPM Update): 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-19-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Pemeriksaan, Hydraulik Jack, \nstand jack, webbing sling, Shackle, hand pallet (BKPM Update): 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-20-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Kalibrasi RAD: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-20-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Kalibrasi RAD: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-21-3-0",
+      "tanggal": "2026-01-15",
+      "kegiatan": "Pemeriksaan aset sesuai PIC: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-21-6-0",
+      "tanggal": "2026-04-15",
+      "kegiatan": "Pemeriksaan aset sesuai PIC: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-21-9-0",
+      "tanggal": "2026-07-15",
+      "kegiatan": "Pemeriksaan aset sesuai PIC: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-21-12-0",
+      "tanggal": "2026-10-15",
+      "kegiatan": "Pemeriksaan aset sesuai PIC: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-22-8-0",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pengukuran Lingker dari tim \nDisnaker: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-22-8-1",
+      "tanggal": "2026-06-15",
+      "kegiatan": "Pengukuran Lingker dari tim \nDisnaker: (pelaksanaan pertengahan Juni)",
+      "unit": "pelaksanaa",
+      "pic": "HSE Team",
+      "status": "Planned"
+    },
+    {
+      "id": "plan-23-7-0",
+      "tanggal": "2026-05-15",
+      "kegiatan": "Pelaksanaan Emergency Drill: 1x",
+      "unit": "HSE",
+      "pic": "HSE Team",
+      "status": "Planned"
+    }
+  ],
+  "list": [
+    {
+      "type": "Item",
+      "value": "Sub-Item",
+      "id": "2"
+    },
+    {
+      "type": "1. Kendaraan Mobilisasi Karyawan",
+      "value": "1.1 Kendaraan Kecil / Micro Bus",
+      "id": "5"
+    },
+    {
+      "type": "2.  Kendaraan Mobilisasi Barang",
+      "value": "2.1 Pick Up Truck",
+      "id": "8"
+    },
+    {
+      "type": "3. Bangunan Kantor",
+      "value": "",
+      "id": "14"
+    },
+    {
+      "type": "12. Menara Telekomunikasi",
+      "value": "12.1 Menara Telekomunikasi SST",
+      "id": "23"
+    },
+    {
+      "type": "20. Jalan Tambang",
+      "value": "20.1 Mine Road",
+      "id": "32"
+    },
+    {
+      "type": "22. Pengelolaan air",
+      "value": "22.1 Saluran air",
+      "id": "35"
+    },
+    {
+      "type": "23. Conveyor",
+      "value": "23.1 Crusher",
+      "id": "37"
+    },
+    {
+      "type": "24. Instalasi Listrik",
+      "value": "24.1 Instalasi High Voltage 380 up (workshop, warehouse, plant, lab)",
+      "id": "41"
+    },
+    {
+      "type": "25. Instalasi Pneumatic",
+      "value": "25.1 Instalasi Udara bertekanan di Workshop",
+      "id": "43"
+    },
+    {
+      "type": "26. Instalasi hydraulic",
+      "value": "26.1 Instalasi oli di workshop (oil station)",
+      "id": "48"
+    },
+    {
+      "type": "27. Instalasi bahan bakar cair",
+      "value": "27.1 Instalasi Pipa bahan bakar di maintank",
+      "id": "51"
+    },
+    {
+      "type": "28. Instalasi air",
+      "value": "28.1 Instalasi Air di workshop",
+      "id": "55"
+    },
+    {
+      "type": "29. Instalasi komunikasi",
+      "value": "29.1 Instalasi Komunikasi di office",
+      "id": "61"
+    },
+    {
+      "type": "30. Instalasi proteksi kebakaran",
+      "value": "30.1 Instalasi Proteksi Kebakaran di Workshop",
+      "id": "66"
+    },
+    {
+      "type": "31. Instalasi Gas bertekanan",
+      "value": "31.1 Instalasi Gas di Lab",
+      "id": "72"
+    },
+    {
+      "type": "32. Peralatan Komunikasi",
+      "value": "32.1 Handy Talkie",
+      "id": "74"
+    },
+    {
+      "type": "33. Pesawat Angkut",
+      "value": "33.1 Excavator",
+      "id": "76"
+    },
+    {
+      "type": "34.  Pesawat Angkat",
+      "value": "34.1 Mobile Crane",
+      "id": "101"
+    },
+    {
+      "type": "35. Peralatan Bantu Angkat / Lifting Gear",
+      "value": "35.1 Shackle",
+      "id": "117"
+    },
+    {
+      "type": "36.  Alat Pemantau Kelongsoran Lereng Robotic",
+      "value": "36.1 Robotic (RTS)",
+      "id": "123"
+    },
+    {
+      "type": "37. Alat Bor / Drill Machine",
+      "value": "37.1 Drill Machine",
+      "id": "125"
+    },
+    {
+      "type": "38. Common tools",
+      "value": "38.1 Tool Box Set",
+      "id": "127"
+    },
+    {
+      "type": "39. Power tools",
+      "value": "39.1 Impact",
+      "id": "130"
+    },
+    {
+      "type": "40. Electrical Tools / Measurement Tools",
+      "value": "40.1 Multi Tester",
+      "id": "135"
+    },
+    {
+      "type": "41. Fixed Plant",
+      "value": "41.1 Genset",
+      "id": "141"
+    },
+    {
+      "type": "42. Timbangan",
+      "value": "42.1 Timbangan Batubara",
+      "id": "149"
+    }
+  ],
+  "list bang": [
+    {
+      "itemChecklist": "Apar 3kg, plus rambu Apar",
+      "kategori": "",
+      "standar": "20x20 cm",
+      "id": "6"
+    },
+    {
+      "itemChecklist": "Stiker 5R",
+      "kategori": "",
+      "standar": "10x10 cm",
+      "id": "7"
+    },
+    {
+      "itemChecklist": "Stiker Jalur Evakuasi",
+      "kategori": "",
+      "standar": "30x10 cm",
+      "id": "8"
+    },
+    {
+      "itemChecklist": "Stiker Hemat Listrik",
+      "kategori": "",
+      "standar": "10x10 cm",
+      "id": "9"
+    },
+    {
+      "itemChecklist": "Rambu maksimal ketinggian",
+      "kategori": "",
+      "standar": "35X50",
+      "id": "10"
+    },
+    {
+      "itemChecklist": "Drainage sekitar bangunan",
+      "kategori": "",
+      "standar": "",
+      "id": "12"
+    },
+    {
+      "itemChecklist": "Cat Hitam dan Putih (rambu beda ketinggian)",
+      "kategori": "",
+      "standar": "",
+      "id": "14"
+    },
+    {
+      "itemChecklist": "Cat Kuning dan abu (demarkasi)",
+      "kategori": "",
+      "standar": "",
+      "id": "15"
+    }
+  ],
+  "Data SPIP update": [
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "5"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "8"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "9"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "10"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "11"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "12"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "13"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "14"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "15"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "16"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "17"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "18"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "19"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "20"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "21"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "22"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "23"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "24"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "25"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "26"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "27"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "28"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "29"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "30"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "31"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "32"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "33"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "34"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "35"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "40"
+    },
+    {
+      "tanggal": "",
+      "user": "",
+      "tipe": "",
+      "perubahan": "",
+      "id": "41"
+    }
+  ]
+}

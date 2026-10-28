@@ -1,0 +1,6 @@
+{
+  "name": "HSE ITU",
+  "description": "Sistem Manajemen Data & Inventory HSE (Health, Safety, and Environment) terintegrasi dengan Google Sheets.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
